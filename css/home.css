@@ -1,4 +1,4 @@
-.js .home{
+ht.js .home{
     opacity: 1; /* mudar para 0 caso queira entrar com musica */
     
 }
@@ -23,7 +23,7 @@
     padding-top: calc(20vh);
     overflow-x: hidden;
     border-bottom: solid 4px  #CAB387;
-  
+
     
     
 }
@@ -131,10 +131,10 @@
     align-items: center;
     flex-wrap: wrap;
     position: absolute;
-    padding-top: 30px;
+    padding-top: 200px;
     text-align: center;
     top: 40px;
-    
+
    
   }
 
@@ -156,25 +156,6 @@
     font-size: 2.5rem !important;
     color: #FFF8EA;
   
-}
-
-
-
-.detalhe-e{
-   /*  background: #FFFAF1;
-    color: #D99A78;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    text-align: center;
- */
-
- color: white;
-    
-
 }
 
 
